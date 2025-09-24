@@ -1,3 +1,9 @@
+# App Description
+
+Recipe Finder
+
+Search for meals using an TheMealDB API. For example, search for "tacos".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
